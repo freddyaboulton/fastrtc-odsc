@@ -1,0 +1,3 @@
+fastrtc[stt, tts, vad]
+python-dotenv
+openai

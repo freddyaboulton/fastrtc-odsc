@@ -1,0 +1,6 @@
+__pycache__
+.env
+.DS_Store
+.ruff_cache
+.venv
+.gradio
